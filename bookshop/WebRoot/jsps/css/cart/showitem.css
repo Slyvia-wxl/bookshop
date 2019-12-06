@@ -1,0 +1,14 @@
+td {border-color: #efeae5;border-style: solid;border-width: 0;border-bottom-width: 1px;padding: 10px;}
+/*#linkSubmit {background: url(/bookshop/images/icon2.png) no-repeat;display: inline-block;background-position: 0px -35px;height: 40px;width: 190px;text-align: center;text-decoration: none;font-size: 24px;font-weight: 900;color: #ffffff;font-family: 黑体;line-height: 40px;}
+#linkSubmit:HOVER {background: url(/bookshop/images/icon2.png) no-repeat;display: inline-block;background-position: 0px -75px;height: 40px;width: 190px;}
+*/a {text-decoration: none; color: 333;}
+a:visited {color: #4ECDC4;}
+a:hover {color:#4ECDC4; text-decoration:none;}
+.price_n {color: #c30;font-weight: bold;padding-right: 10px;font-family: Arial;}
+.price_t {color: #c30;font-weight: bold;padding-right: 10px;font-family: Arial;font-size: 15pt;}
+a.linkImage {display: inline-block;border: 1px solid #ffffff;}
+a.linkImage:HOVER {display: inline-block;border: 1px solid #d0d0d0;}
+a.link2:active {border: 1px dotted #404040;}
+table{box-shadow:0 2px 8px 0 #ebebeb;padding:30px;width:90%;line-height:45px;margin:20px auto;color:#000}
+.ordertitle{text-align:center;color:#fff;background:#4ECDC4;}
+#addr{border-radius:40px;margin:10px 0;height:40px ;width: 60%; border: 1px solid #7f9db9; padding-left: 10px; line-height: 32px}
